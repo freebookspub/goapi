@@ -1,4 +1,4 @@
-package goapi
+package main
 
 import ("fmt")
 
